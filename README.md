@@ -1,4 +1,0 @@
-pylibpcap
-=========
-
-Copy of pylibpcap
